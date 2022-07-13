@@ -4,5 +4,5 @@
 ## Techs
 O projeto foi feito utilizando as seguintes tecnologias:
 
-* HTML
-* CSS 
+* HTML5
+* CSS3 
